@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Next JS - Bar Poll
 
+
+![image](https://github.com/Michael0520/Next-bar-poll/assets/60827537/3b29b960-6ed0-42b3-ad3e-0c4dfcecbeea)
+
 First, run the development server:
 
 ```bash
